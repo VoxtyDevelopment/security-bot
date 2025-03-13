@@ -11,4 +11,3 @@ Create a bot at https://discord.com/developers/applications and enable all inten
 7. Run (node .)
 
 Bot Made by ioivox and mhmdevs
-
