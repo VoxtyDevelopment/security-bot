@@ -16,7 +16,7 @@
         "discord.js": "^14.14.1",
         "fivem-server-api": "^1.1.2",
         "fs": "0.0.1-security",
-        "mysql2": "^3.2.0",
+        "mysql2": "^3.9.8",
         "node-cron": "^3.0.2",
         "path": "^0.12.7",
         "ping": "^0.4.4",
