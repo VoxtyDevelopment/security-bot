@@ -22,6 +22,6 @@
         "ping": "^0.4.4",
         "superagent": "^8.0.9",
         "ts3-nodejs-library": "^3.5.1",
-        "ts3-nodejs-scentral": "^3.4.2"
+        "ts3-nodejs-scentral": "^3.4.3"
     }
 }
